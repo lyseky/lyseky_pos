@@ -1,6 +1,6 @@
 # lyseky_pos
 
-> 喵喵商城 <br/>
+> 喵喵快餐 <br/>
 
 > vue2 + webpack + vueRouter + element
 
