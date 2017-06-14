@@ -1,6 +1,10 @@
 # lyseky_pos
 
-> A Vue.js project
+> 喵喵商城 <br/>
+
+> vue2 + webpack + vueRouter + element
+
+
 
 ## Build Setup
 

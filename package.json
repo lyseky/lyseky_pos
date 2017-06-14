@@ -1,7 +1,7 @@
 {
   "name": "lyseky_pos",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "喵喵点餐",
   "author": "lyseky <7303235@qq.com>",
   "private": true,
   "scripts": {
@@ -10,6 +10,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "axios": "^0.16.2",
+    "element-ui": "^1.3.6",
     "vue": "^2.3.3",
     "vue-router": "^2.3.1"
   },
