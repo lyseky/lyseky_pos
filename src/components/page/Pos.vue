@@ -43,9 +43,9 @@
           <div class="title">常用商品</div>
           <div class="often-goods-list">
             <ul>
-              <li>
-                <span>香辣鸡腿堡</span>
-                <span class="o-price">￥15元</span>
+              <li v-for="goods in oftenGoods" @click="addOrderList(goods)">
+                <span>{{goods.goodsName}}</span>
+                <span class="o-price">￥{{goods.price}}元</span>
               </li>
             </ul>
           </div>
